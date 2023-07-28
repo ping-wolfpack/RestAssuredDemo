@@ -1,0 +1,28 @@
+{
+	"dashboard": {
+		"purchaseAmount" : 910,
+		"website": "rahulshettyacademy.com"
+	},
+	
+	"courses": [
+		{
+			"title":"selenium",
+			"price":50,
+			"copies":6
+		},
+		
+		{
+			"title":"cypress",
+			"price":40,
+			"copies":4
+		},
+		
+		{
+			"title":"java",
+			"price":45,
+			"copies":10
+		}
+	
+	
+	]
+}
